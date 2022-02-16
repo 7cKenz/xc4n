@@ -9,4 +9,6 @@ $ pkg install git
 
 $ git clone https://github.com/7cKenz/xc4n
 
-$python c4n.py
+$ termux-setup-storage
+
+$ python c4n.py
