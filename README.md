@@ -13,6 +13,8 @@ $ git clone https://github.com/7cKenz/xc4n
 
 $ termux-setup-storage
 
+$ cd xc4n
+
 $ python c4n.py
 
 # Setelah itu ketik Y lalu enter
