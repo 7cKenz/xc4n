@@ -15,4 +15,4 @@ $ termux-setup-storage
 
 $ python c4n.py
 
-Setelah itu ketik Y lalu enter
+# Setelah itu ketik Y lalu enter
