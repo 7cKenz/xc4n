@@ -1,7 +1,7 @@
 # Instaling
 $ pkg update && pkg upgrade
 
-$ pkg install python
+$ pkg install python2
 
 $ pip install mechanize
 
@@ -15,7 +15,7 @@ $ termux-setup-storage
 
 $ cd xc4n
 
-$ python c4n.py
+$ python2 c4n.py
 
 Done
 
