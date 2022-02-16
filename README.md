@@ -17,4 +17,6 @@ $ cd xc4n
 
 $ python c4n.py
 
-# Setelah itu ketik Y lalu enter
+Done
+
+Setelah itu ketik Y lalu enter :D
